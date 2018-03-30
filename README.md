@@ -202,6 +202,6 @@ optional arguments:
 
 If you want to contribute a PR for any of these points you're more than welcome!
 
-## I want to thank you!
+## I want to thank you! - This addr is from the creator of RaiMixer
 
 xrb_3usnd3kirzfudprd3tceauh3sejxpfm754jgnjajbttrefx9obgdqe69wfcf

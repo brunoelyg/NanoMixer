@@ -1,12 +1,13 @@
 <img src="https://raw.githubusercontent.com/juanjux/raimix/master/img/logo.png" 
  alt="RaiMixer logo" title="RaiMixer" align="right" width=180px />
 
-# RaiMixer: local transaction scrambler for Raiblocks
+# NanoMixer: local transaction scrambler for Nano
+Forked from RaiMixer
 
 <img src="https://raw.githubusercontent.com/juanjux/raimix/master/img/gui.png" 
  alt="RaiMixer GUI" title="RaiMixer" width=640px />
 
-This video shows a simple session using RaiMixer to send a transaction to a destination
+This video shows a simple session using NanoMixer to send a transaction to a destination
 account using a single round of mixing and 3 mixing accounts (18 transactions in total):
 
 <a href="https://asciinema.org/a/WObUOx2b6rvnMOe9WyARXEd2Z" target="_blank">

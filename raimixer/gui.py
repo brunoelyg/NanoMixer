@@ -82,7 +82,7 @@ class RaimixerGUI(QMainWindow):
         self.create_buttons_box()
         self.create_log_box()
 
-        self.setWindowTitle('RaiMixer')
+        self.setWindowTitle('NanoMixer')
 
         # Timer to check & update the connection status to the wallet
         self.wallet_conn_timer = QTimer(self)
